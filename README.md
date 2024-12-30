@@ -7,10 +7,10 @@ Hola, soy MarcoGZRo!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+inform%C3%A1tica;Aspirante+a+Dev+Backend;Entusiasta;Creativo" alt="Typing SVG"></a>
 </p>
 
-<img align="left" src="https://lh3.googleusercontent.com/Ssm4Hl2cYnPYpFRUqJm1igJHr-QPbL25cEZ3q-tS94yorPdsac9D57Cg4G1-rSxaRKqR3HfgAsm0BF27FA" height = 350 alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://lh3.googleusercontent.com/Ssm4Hl2cYnPYpFRUqJm1igJHr-QPbL25cEZ3q-tS94yorPdsac9D57Cg4G1-rSxaRKqR3HfgAsm0BF27FA" height = 320 alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
@@ -44,14 +44,14 @@ Soy-MarcoGZRo@github
 
 </p>
 
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Base de datos y Hosting
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Sql_Server-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### 💻 Software adicional
 
 <p>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
