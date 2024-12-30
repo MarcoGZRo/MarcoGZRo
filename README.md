@@ -7,7 +7,7 @@ Hola, soy MarcoGZRo!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Estudiante+de+inform%C3%A1tica;Aspirante+a+Dev+Backend;Entusiasta;Creativo" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&height=60&lines=Estudiante+de+inform%C3%A1tica;Aspirante+a+Dev+Backend;Entusiasta;Creativo" alt="Typing SVG"></a>
 </p>
 
 <img align="left" src="https://lh3.googleusercontent.com/Ssm4Hl2cYnPYpFRUqJm1igJHr-QPbL25cEZ3q-tS94yorPdsac9D57Cg4G1-rSxaRKqR3HfgAsm0BF27FA" height = 320 alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
