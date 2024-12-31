@@ -1,8 +1,7 @@
 <h1 align="center">
 Hola, soy MarcoGZRo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -33,14 +32,14 @@ Soy-MarcoGZRo@github
 ### 👨‍💻 Lenguajes de programacion
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://skillicons.dev/icons?i=java,python,css,mysql"></a>
 
-### 🧰 Frameworks and Librerias
+
+### 🧰 Frameworks y Librerias
 
 <p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,django,docker,c++"></a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,cs"></a>
+    <a href="#"><img alt="Maven" src="https://skillicons.dev/icons?i=maven"></a>
 
 </p>
 
@@ -54,17 +53,20 @@ Soy-MarcoGZRo@github
 ### 💻 Software adicional
 
 <p>
-    <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+    <a href="#"><img alt="Google Sheets" src="https://skillicons.dev/icons?i=gcp"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://skillicons.dev/icons?i=stackoverflow"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
+    <a href="#"><img alt="Intellij IDEA" src="https://skillicons.dev/icons?i=idea"></a>
+    <a href="#"><img alt="Autodesk" src="https://skillicons.dev/icons?i=autocad"></a>
+    <a href="#"><img alt="Blender" src="https://skillicons.dev/icons?i=blender"></a>
 </p>
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
+    <a href="#"><img alt="gmail" src="https://skillicons.dev/icons?i=gmail"></a>
+
 </p>
 
 
