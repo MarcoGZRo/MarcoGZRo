@@ -1,119 +1,21 @@
-<h1 align="center">
-Hola, soy MarcoGZRo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-
-<br/>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&height=60&lines=Estudiante+de+inform%C3%A1tica;Aspirante+a+Dev+Backend;Entusiasta;Creativo" alt="Typing SVG"></a>
-</p>
-
-<img align="left" src="https://lh3.googleusercontent.com/Ssm4Hl2cYnPYpFRUqJm1igJHr-QPbL25cEZ3q-tS94yorPdsac9D57Cg4G1-rSxaRKqR3HfgAsm0BF27FA" height = 320 alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-```
-Soy-MarcoGZRo@github
--------------------------
-💻 Soy un pequeño programador que aspira a mas
-📚 Estudio Ingenieria de Sistemas e Informatica en la UNSM
-📝 Tengo un gran interes por el Backend y la IA
-🔭 Hago pequeños proyectos para practicar
-🌟 Lenguajes principales: Java
-🚩 Estoy muy interesado en el dasarrollo de aplicaciones desktop y APIs
-💖 Tengo una relacion complicada con C++
-🎵 Me gustan casi todo los generos de musica xD
-```
-<hr>
+# 💫 About Me:
+I am finishing my degree in Systems and Computer Engineering
 
 
-## 🛠️ Mis herramientas favoritas
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MarcoGZRo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MarcoGZRo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MarcoGZRo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 👨‍💻 Lenguajes de programacion
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MarcoGZRo&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://skillicons.dev/icons?i=java,python,css,mysql"></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MarcoGZRo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://komarev.com/ghpvc/?username=MarcoGZRo&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### 🧰 Frameworks y Librerias
-
-<p>
-    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,cs"></a>
-    <a href="#"><img alt="Maven" src="https://skillicons.dev/icons?i=maven"></a>
-
-</p>
-
-### 🗄️ Base de datos y Hosting
-
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Sql_Server-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-</p>
-
-### 💻 Software adicional
-
-<p>
-    <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
-    <a href="#"><img alt="Google Sheets" src="https://skillicons.dev/icons?i=gcp"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://skillicons.dev/icons?i=stackoverflow"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
-    <a href="#"><img alt="Intellij IDEA" src="https://skillicons.dev/icons?i=idea"></a>
-    <a href="#"><img alt="Autodesk" src="https://skillicons.dev/icons?i=autocad"></a>
-    <a href="#"><img alt="Blender" src="https://skillicons.dev/icons?i=blender"></a>
-</p>
-
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="#"><img alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
-    <a href="#"><img alt="gmail" src="https://skillicons.dev/icons?i=gmail"></a>
-
-</p>
-
-
-## GitHub Stats
-
-
-|                                                                     Vishal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
-    
-
-|                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
-
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
-
-  </td>
-  </tr>
-</table>
-
-------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
