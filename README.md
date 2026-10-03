@@ -18,4 +18,3 @@ I am finishing my degree in Systems and Computer Engineering
 ---
 [![](https://komarev.com/ghpvc/?username=MarcoGZRo&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
